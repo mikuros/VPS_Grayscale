@@ -1,0 +1,13 @@
+[testptest.com]
+→app.py
+→gunicorn.conf.py
+→[tempaltes]
+→[uploads]
+-----------------------
+
+→[tempaltes]
+→→index.html
+→→result.html
+
+→[uploads]
+→→画像がアップロードされた際に画像が格納されるフォルダ
